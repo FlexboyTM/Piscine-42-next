@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/robinpham/Downloads/piscine/CM2/Strings/ex8/ft_strlen'
+relocations:     []
+...
